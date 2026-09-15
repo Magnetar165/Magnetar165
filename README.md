@@ -6,7 +6,7 @@
 
 ### About Me
 
-🔭 &nbsp;I'm currently working on **an app combining organisational and learning tools**  
+🔭 &nbsp;I'm currently working on **an app combining organisational and learning tools and a DBMS**  
 🌱 &nbsp;I'm currently learning **Kotlin and Assembly (AT&amp;T and Intel Standard)**  
 💭 &nbsp;Think about **A well-integrated combination of Assembly and C++ code with good performance**  
 😄 &nbsp;Pronouns: **he/his**
