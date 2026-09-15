@@ -4,7 +4,7 @@
   </a>
 </p>
 
-### 🚀 About Me
+### About Me
 
 🔭 &nbsp;I'm currently working on **an app combining organisational and learning tools**  
 🌱 &nbsp;I'm currently learning **Kotlin and Assembly (AT&amp;T and Intel Standard)**  
